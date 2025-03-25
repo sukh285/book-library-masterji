@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Library</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1 class="head">Book Library</h1>
+        <input type="text" id="searchBar" placeholder="Search by title or author">
+        <button id="toggleView">Toggle View</button>
+        <select id="sortOptions">
+            <option value="">Sort By</option>
+            <option value="title">Title (A-Z)</option>
+            <option value="date">Published Date (Oldest First)</option>
+        </select>
+    </header>
+
+    <main>
+        <div id="bookContainer" class="grid-view">
+            <!-- Books will be dynamically inserted here -->
+        </div>
+
+        <div id="pagination-controls">
+            <button id="prevPage" disabled>Previous</button>
+            <span id="page-info">Page: 1</span>
+            <button id="nextPage">Next</button>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Book Library</p>
+    </footer>
+
+</body>
+
+<script src="index.js" type="module"></script>
+</html>
