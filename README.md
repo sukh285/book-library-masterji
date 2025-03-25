@@ -20,7 +20,7 @@ A web application to search, browse, and explore books fetched from an external 
 - **Advanced Sorting**: Organize books by:
   - Alphabetical order
   - Publication date
-- **Smooth Pagination**: Load more books as you scroll
+- **Pagination**: Load more books as you scroll
 - **Detailed Information**: Click any book to open full details in a new tab
 - **📱 Responsive Design**: Optimized for all devices and screen sizes
 
@@ -35,6 +35,5 @@ A web application to search, browse, and explore books fetched from an external 
 
 - **API Integration**: Gained hands-on experience with RESTful API integration and data handling
 - **UI/UX Design**: Implemented user-friendly interfaces with multiple view options
-- **Performance Optimization**: Managed efficient data loading through pagination
 - **Responsive Development**: Created adaptive layouts for various screen sizes
 - **State Management**: Handled complex state changes between different views and sorting options
