@@ -5,8 +5,9 @@
 A web application to search, browse, and explore books fetched from an external API. Users can switch between list and grid views, filter, sort, and paginate through book collections.
 
 ## 🌟 Features
-![Screenshot 2025-03-25 164546](https://github.com/user-attachments/assets/7a127824-2a1e-47d6-911d-d3c7e549ca09)
-![list-view](https://github.com/user-attachments/assets/598f5a9d-7673-4b0b-8aa6-8c823a02837a)
+![app-screenshot](https://github.com/user-attachments/assets/a3ff1153-3996-4ecd-8da2-b94b78825022)
+![list-view](https://github.com/user-attachments/assets/9b214707-ed4f-4e03-978d-49882261bd78)
+
 
 - **Dynamic Book Display**: Fetch and display books from API in list/grid format
 - **Flexible Views**: Toggle between list and grid layouts
